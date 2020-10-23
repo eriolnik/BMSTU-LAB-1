@@ -50,7 +50,7 @@ int main() {
     pa = mass / v;
     cout << pa << endl;
 
-/*
+/* //TASK 2.2 (запускать отдельно)
     int Solve(double a1, double b1, double x1) {
         if (a1 == 0 && b1 != 0)
             return -3;
